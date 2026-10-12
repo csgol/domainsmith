@@ -8,7 +8,7 @@ placeholder page gives the registered domains something to serve.
 
 ---
 
-## Workflow at a glance
+## Workflow
 
 ```
 names.txt ──> check-domains.sh ──> AVAILABLE names
