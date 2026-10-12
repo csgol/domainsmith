@@ -1,0 +1,38 @@
+# ---- Secrets: NEVER commit real API keys ----
+# .env holds your live VirusTotal / urlscan keys. .env.example is the safe
+# template and SHOULD be committed; .env must not be.
+.env
+.env.*
+!.env.example
+*.key
+secrets.*
+
+# ---- Operational / engagement data ----
+# Keep real scoped candidate lists and run results out of the repo.
+# names.txt / domains.txt are committed as examples — ignore scoped variants.
+*-scope.txt
+*-results.txt
+results/
+scope/
+output/
+
+# ---- Scratch ----
+original_script.txt
+*.bak
+*.tmp
+tmp/
+
+# ---- OS cruft ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Editors ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ---- Logs ----
+*.log

@@ -1,0 +1,5 @@
+# Candidate base names — one per line, WITHOUT the TLD.
+# Blank lines and lines starting with # are ignored.
+# These are generic-theme examples; replace with your own scoped candidates.
+
+example-domain

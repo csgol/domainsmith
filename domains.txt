@@ -1,0 +1,7 @@
+# Finalists for the burn pass — one FULL domain per line (name.tld).
+# Blank lines and lines starting with # are ignored.
+# These are the .com picks; add .net/.org rows if you want those vetted too.
+
+example-domain.com
+example-domain.net
+example-domain.org
