@@ -1,4 +1,11 @@
-# domainsmith
+```
+╔══════════════════════════════════════════════════════╗
+║  ▓█ ░▒▓█ D O M A I N S M I T H █▓▒░ █▓               ║
+║ ┌─[~]─[192.168.x.x]───────────────────────────────┐  ║
+║ │ > forging infrastructure . . . [ OK ]           │  ║
+║ └──────────────────────────────────────────────────┘ ║
+╚══════════════════════════════════════════════════════╝
+```
 
 Tools for picking and setting up domains for authorized phishing-simulation
 exercises. First, a two-step vetting pipeline checks whether a candidate
